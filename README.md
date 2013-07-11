@@ -1,7 +1,7 @@
 communication-basic-services
 ============================
 
-This is a repo for keepin grack of the code I need for this subject of the same name. 
+This is a repo for keepin track of the code I need for this subject of the same name. 
 
 Práctica 01: Aspectos del lenguaje Java asociados a los Servicios de Comunicaciones Básicos
 
