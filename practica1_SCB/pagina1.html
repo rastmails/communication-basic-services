@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>
+Menú
+</title>
+</head>
+Index del Servidor_Rodrigo
+<p></p>
+<p></p>
+<body bgcolor="#e0ecf8">
+<i> Listado de Archivos:   </i>
+<script language="JScript">
+    <!--
+    function getfolder()
+    {
+        var myObject, afolder, date;
+        myObject = new ActiveXObject("Scripting.FileSystemObject");
+        afolder = myObject.GetSubFolders("C:\User\rast\teleco\webServer");
+        alert("El archivo"+name+" esta en el directorio.");
+    }
+    -->
+    </script>
+    En el directorio.
+    <form name="myForm">
+    <input type="Button" value="Busca los archivos " onClick='getfolder()'>
+    
+
+
+
+</form>
+<object  data="song.mp3" type="application/x-mplayer2" height="50" width="300" >
+	<param name="src" value="song.mp3" />
+	<param name="autostart" value="0" />
+</object>
+ 
+
+<script language="JScript1.1">
+    <!--
+    var myFileSysObj = new ActiveXObject("Scripting.FileSystemObject");
+    var myFolder = myFileSysObj.GetFolder("\\temp");
+    var myEnum = new Enumerator(myFolder.Files);
+    while(!myEnum.atEnd()){
+      document.write(myEnum.item() + '<br>');
+      myEnum.moveNext();
+    }
+    -->
+    </script>
+    
+    
+    
+</html>

@@ -1,0 +1,9 @@
+line: 1  prueba1.txt
+hola
+
+line: 1  prueba(otracopia).txt
+hola afosfiaowjefois
+
+line: 2  prueba(otracopia).txt
+fajsofisaejfslk hola 
+
